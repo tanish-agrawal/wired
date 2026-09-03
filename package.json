@@ -1,0 +1,14 @@
+{
+  "name": "wired-realtime-chatapp",
+  "version": "1.0.0",
+  "description": "Full-stack Realtime MERN Chat Application with JWT and WebSockets",
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build",
+    "install:all": "npm --prefix backend install && npm --prefix frontend install"
+  },
+  "keywords": ["mern", "chat", "socketio", "jwt", "mongodb", "react", "tailwind"],
+  "author": "Tanish Agrawal",
+  "license": "MIT"
+}
