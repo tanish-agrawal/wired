@@ -1,4 +1,4 @@
-#  wired - Realtime MERN Chat Application
+#  Wired - Realtime MERN Chat Application
 
 A modern, high-performance, real-time messaging application built with the **MERN** stack (MongoDB, Express, React, Node.js), **Socket.IO** WebSockets, **JWT** Authentication, and **Tailwind CSS**.
 
