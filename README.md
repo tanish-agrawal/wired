@@ -1,4 +1,4 @@
-# ⚡ PulseChat - Realtime MERN Chat Application
+#  wired - Realtime MERN Chat Application
 
 A modern, high-performance, real-time messaging application built with the **MERN** stack (MongoDB, Express, React, Node.js), **Socket.IO** WebSockets, **JWT** Authentication, and **Tailwind CSS**.
 
@@ -56,7 +56,7 @@ Make sure MongoDB is installed and running locally, or configure your MongoDB At
 ```env
 PORT=5000
 MONGODB_URI=mongodb://localhost:27017/chatapp
-JWT_SECRET=supersecretjwtkey_antigravity_2026_change_this_in_production
+JWT_SECRET=made_by_tanish_agrawal_change_this_in_production
 NODE_ENV=development
 CLIENT_URL=http://localhost:5173
 ```
